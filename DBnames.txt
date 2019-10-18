@@ -1,5 +1,2 @@
-Updated the names
-Updating the master branch
-Updating the bugfix branch
-Checking the ssh
-updated line for git stash
+Dinesh
+sama
